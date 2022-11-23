@@ -1,4 +1,4 @@
-# CS3219-AY22-23-Project-Group-58
+# LeetWithFriend
 
 LeetWithFriend at https://leetwithfriend.com/ [Note: Due to rising costs, it is no longer running on Google Cloud Platform]
 
