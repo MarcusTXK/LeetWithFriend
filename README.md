@@ -4,6 +4,17 @@ LeetWithFriend at https://leetwithfriend.com/
 
 - An interview preparation platform and peer matching system, where students can find peers to practice whiteboard-style interview questions together.
 
+![image](https://user-images.githubusercontent.com/50147457/203652014-86f10774-f472-42f9-bc0c-ea91dbc83a4f.png)
+
+
+![image](https://user-images.githubusercontent.com/50147457/203652120-1d73e89d-b129-4132-aa24-e8dce2ab587e.png)
+
+
+![image](https://user-images.githubusercontent.com/50147457/203651935-8a8225a3-68f4-458b-8326-de786042fa00.png)
+
+## Architecture Overview
+![image](https://user-images.githubusercontent.com/50147457/203652611-432dc3b0-b4c3-4c06-a04a-c71627883480.png)
+
 ## Development Guide
 
 ### Spin up all the services for local manual testing
@@ -15,6 +26,7 @@ docker-compose -f docker-compose.local.yml up --build -d
 Visit the frontend at http://localhost:80
 
 To stop the services
+
 
 ```bash
 docker-compose -f docker-compose.local.yml stop
