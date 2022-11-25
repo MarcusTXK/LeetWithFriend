@@ -1,6 +1,6 @@
 # LeetWithFriend
 
-LeetWithFriend at https://leetwithfriend.com/ [Note: Due to rising costs, it is no longer running on Google Cloud Platform]
+LeetWithFriend at https://leetwithfriend.com/ [Note: Due to rising costs, the deployment on Google Cloud Platform has been paused.]
 
 - An interview preparation platform and peer matching system, where students can find peers to practice whiteboard-style interview questions together.
 
